@@ -1,0 +1,23 @@
+div{
+    display: flex;
+    justify-content: space-between;
+    margin: 45px;
+    background-color: lightblue;
+}
+
+div ul{
+    display: flex;
+    justify-content: space-between;
+    vertical-align: text-bottom;
+    margin: 45px;
+    padding-left: 0px;
+}
+
+div img{
+    width: 100px;
+}
+
+div h1{
+    font-size: 20px;
+    margin: 45px;
+}
